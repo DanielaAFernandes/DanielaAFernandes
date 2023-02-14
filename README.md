@@ -15,5 +15,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaAFernandes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  <p><strong>✨ Alguns projetos realizados nos módulos de Fundamentos e Front-end:</strong></p>
 
 </div>
+
+
+
+
+
+https://user-images.githubusercontent.com/110851409/218816523-283c1104-cf48-45d1-8a52-a5446c044acb.mp4
+
+
+
+
+
+
+
