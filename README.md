@@ -1,7 +1,7 @@
 <div align="center"> 
 <strong>Olá</strong> 👋 <br>
 ✨ Sobre mim:<br>
-👩🏽‍💻 Estudante de desenvolvimento Web na Trybe<br>🌱 Atualmente estou aprendendo Back-end
+👩🏽‍💻 Estudante de desenvolvimento Web na Trybe<br>🌱 Atualmente estou aprendendo Java
 
 
 ## 🌐 Rede social:
